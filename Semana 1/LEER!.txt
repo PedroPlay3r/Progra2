@@ -1,0 +1,14 @@
+Buenos días/tardes/noches informático que esté leyendo esto en el futuro! Me gustaría decir que se me chispoteó el orden, por eso acá
+lo pondré correctamente:
+1. Problema1
+2. Problema2
+3. Problema3
+4. Problema4
+5. Problema5
+6. invertirarreglo
+7. impares
+8. imprimirelementos
+9. rotacion
+
+Y eso sería! Me da flojera crear nuevos proyectos para darle sentido, así que como buen ingeniero, voy y me las arreglo de una forma
+ridículamente floja! xDD
